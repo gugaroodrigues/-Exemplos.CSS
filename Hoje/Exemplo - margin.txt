@@ -1,0 +1,18 @@
+Margin como utilizar
+   margin-top: 0;
+   margin-bottom: 0px;
+   margin-left: 100px;
+   margin-rigth: 100;
+
+
+
+        TOP    RIGTH   BOTTOM  LEFT
+margin: 0      100px   0       100px;
+
+        TOP/BOTTOM   RIGTH/LEFT
+margin: 0px          100px;
+
+
+margin: 100px   100px   100px   100px;
+margin: 100px   100px;
+margin: 100px

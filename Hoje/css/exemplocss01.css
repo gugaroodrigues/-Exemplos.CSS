@@ -1,0 +1,41 @@
+.botao:hover{
+             background-color: rgb(13,60,135);
+             color: #3507FB;
+             text-transform: uppercase;
+             background-image: url("../imagens/bap.jpg");
+             background-size: 100%;
+	    }
+		.botao{
+			display: block;
+			background-color: #EACE21;
+			color: #FFFFFF;
+			font-weight: bold;
+			width: 200px;
+			height: 40px;
+			text-decoration: none;
+			text-align: center;
+
+			border-radius: 20px;
+
+			/*border: 1px solid black;*/
+            border-color: deeppink;
+            border-width: 1px;
+            border-style: solid;
+            border-top-color: blue;
+            border-bottom-color: blue;
+
+		}
+		.imagem{
+			background-image: url("../imagens/bap.jpg");
+			height: 600px;
+			background-repeat: repeat;
+			/*background-position: top center;*/
+	    .campo-texto{
+	    	/*background-color: #949494;*/
+	    	border-bottom: ipx solid red;
+	    	border-top-style: none;
+	    	border-left-style: nome;
+	    	border-right-style: nome;
+	    }
+
+		}
